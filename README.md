@@ -20,7 +20,7 @@ These questions are **important** becuase (they ask good questions)
 
 
 ## Interpreting Vissalizations
-![alt text](image.jpg)
+![image](https://github.com/TCoulter2/mgt4250spring2024/assets/168772168/a37ca1fe-9f02-41f4-b8c2-d26eef2da17b)
 
 
 ## Discussion & Summary
