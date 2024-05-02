@@ -24,3 +24,8 @@ These questions are **important** becuase (they ask good questions)
 
 
 ## Discussion & Summary
+
+
+```
+import pandas as pd
+```
